@@ -1,8 +1,8 @@
 <div align="center">
 
 
-  <img src="<img width="1086" height="653" alt="image" src="https://github.com/user-attachments/assets/09228c84-3539-40f6-aca5-e3f6bb485bc7" />
-" width="400" style="margin:4px 0;"/>
+  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/18573734-aaca-4b19-9359-edc1b8ed0032" />
+
 
   <div style="margin:4px 0;">
     <a href="https://calendular.straw.page/">STRAWPAGE</a> ⟢
