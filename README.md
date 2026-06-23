@@ -1,1 +1,8 @@
-<img width="737" height="463" alt="Image" src="https://github.com/user-attachments/assets/97c3640c-1712-494d-8ac2-14810b157f46" />
+<div align="center">
+
+
+  <img src="https://i.imgur.com/XZYD9ym.png" width="400" style="margin:4px 0;"/>
+
+  <div style="margin:4px 0;">
+    <a href="https://calendular.straw.page/">STRAWPAGE</a> ⟢
+    <a href="https://calindean.atabook.org/">SIGN ATA!</a>
