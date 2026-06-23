@@ -5,5 +5,5 @@
 
 
   <div style="margin:4px 0;">
-    <a href="https://calendular.straw.page/">STRAWPAGE</a> ⟢
-    <a href="https://calindean.atabook.org/">SIGN ATA!</a>
+    <a href="(https://hywelxx.straw.page)/">STRAWPAGE</a> ⟢
+    <a href="https://orion-prime.atabook.org/">SIGN ATA!</a>
