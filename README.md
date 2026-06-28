@@ -1,7 +1,3 @@
 <div align="center">
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1e99176f-3f0c-4f06-b540-e456d38cf32b" />
-
-  <div style="margin:4px 0;">
-    <a href="https://hywelxx.straw.page/">STRAWPAGE</a> ⟢
-    <a href="https://orion-prime.atabook.org/">SIGN ATA!</a>
+<audio controls src="<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7x9t38yZB45MfvV1JkDzxh?utm_source=generator&si=4c4f213f325d45d3" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>"></audio>
