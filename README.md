@@ -1,4 +1,6 @@
 <div align="center">
+
+ ![](https://komarev.com/ghpvc/?username=orion-paxx&color=lightgrey)
   
 $\color{#281447}{\textsf{Go hide,quickly.}}$ $\color{#3F0E51}{\textsf{Dont move.}}$ $\color{#470E51}{\textsf{Dont make a sound.}}$ $\color{#6D0D53}{\textsf{Dont let optimus}}$ $\color{#7F0349}{\textsf{prime}}$ $\color{#a1124d}{\textsf{ find you.}}$
 
