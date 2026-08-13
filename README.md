@@ -1,6 +1,6 @@
   <div align="center">
 
- ![](https://komarev.com/ghpvc/?username=orion-paxx&color=a1124d)
+ ![](https://komarev.com/ghpvc/?username=orion-paxx&color=b3153a)
  &nbsp;
  
 
@@ -9,7 +9,7 @@
  &#32; 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/6312213c-e7fb-4951-a9d0-614ab3f6f273" />
   
-. ˚. ❝ $\color{#32175c}{\textsf{Go hide,quickly.}}$ $\color{#3F0E51}{\textsf{Dont move.}}$ $\color{#470E51}{\textsf{Dont make a}}$ $\color{#6D0D53}{\textsf{sound. Dont let}}$ $\color{#7F0349}{\textsf{optimus prime}}$ $\color{#a1124d}{\textsf{find you.}}$ ❞ ⋆˙⟡
+. ˚. ❝ $\color{#32175c}{\textsf{Go hide,quickly.}}$ $\color{#3F0E51}{\textsf{Dont move.}}$ $\color{#470E51}{\textsf{Dont make a}}$ $\color{#5c0f45}{\textsf{sound}}$  $\color{#5c0f45}{\textsf{Dont let}}$ $\color{#7F0349}{\textsf{optimus prime}}$ $\color{#a1124d}{\textsf{find you.}}$ ❞ ⋆˙⟡
  
 
 <div style="margin:4px 0;">
